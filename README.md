@@ -1,8 +1,9 @@
 # flutter_chart
 
-A new Flutter project.
+Flutter Charts Using Offical Library.
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
