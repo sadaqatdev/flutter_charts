@@ -4,6 +4,9 @@ Flutter Charts Using Offical Library.
 
 ## Getting Started
 
+![](images/Screenshot_20201221-124812.png)
+
+![](images/Screenshot_20201221-124818.png)
 
 This project is a starting point for a Flutter application.
 
